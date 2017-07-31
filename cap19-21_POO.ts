@@ -28,3 +28,5 @@ export class Xmen {
 	  console.log (` ${this.nombre} - ${this.edad} `);
 	};
 }
+
+
